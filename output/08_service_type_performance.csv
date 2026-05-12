@@ -1,0 +1,6 @@
+"service_type","total_orders","ontime","failed","delayed","failure_rate_pct","avg_order_value","avg_rating"
+"Business",126,73,25,28,19.84,97.45,3.85
+"Medical",108,70,16,22,14.81,86.53,3.84
+"Passenger",262,171,38,53,14.5,97.19,3.85
+"Retail",224,146,28,50,12.5,86.81,3.87
+"Parcel",230,156,25,49,10.87,90.15,3.9

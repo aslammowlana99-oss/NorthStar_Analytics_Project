@@ -1,0 +1,9 @@
+"zone","total_deliveries","total_overrides","avg_overrides_per_trip","trips_with_override"
+"AIRPORT",113,204,1.81,95
+"CENTRAL",110,178,1.62,83
+"WEST",114,92,0.81,64
+"EAST",156,123,0.79,82
+"RIVERSIDE",119,87,0.73,58
+"CTR",64,47,0.73,34
+"NORTH",135,94,0.7,64
+"SOUTH",139,96,0.69,71
